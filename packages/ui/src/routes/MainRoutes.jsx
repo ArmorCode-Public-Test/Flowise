@@ -164,14 +164,7 @@ const MainRoutes = {
                 </RequireAuth>
             )
         },
-        {
-            path: '/credentials',
-            element: (
-                <RequireAuth permission={'credentials:view'}>
-                    <Credentials />
-                </RequireAuth>
-            )
-        },
+        
         {
             path: '/variables',
             element: (
