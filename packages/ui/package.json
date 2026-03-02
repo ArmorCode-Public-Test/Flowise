@@ -64,7 +64,7 @@
         "reactflow": "^11.5.6",
         "recharts": "^2.12.6",
         "redux": "^4.0.5",
-        "rehype-mathjax": "^4.0.2",
+        "rehype-mathjax": "^6.0.0",
         "rehype-raw": "^7.0.0",
         "remark-gfm": "^3.0.1",
         "remark-math": "^5.1.1",
